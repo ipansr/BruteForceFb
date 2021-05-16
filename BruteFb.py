@@ -74,4 +74,4 @@ else: exit("Tools Hanya Support Untuk Termux")
 """
 Created By X-533
 """
-Wassalamu'alaikum Wr Wb 
+# Wassalamu'alaikum Wr Wb 
